@@ -1,0 +1,103 @@
+body {
+    text-align: center;
+    font-family: 'montserrat';
+}
+
+
+.navbar-brand img {
+    width: 250px;
+    height: auto;
+}
+
+.colored-section {
+    background-color: #6739b6;
+    color: #fff;
+}
+
+.collapse {
+    justify-content: flex-end;
+
+}
+
+.navbar a {
+    color: antiquewhite;
+    font-size: 24px;
+    width: 150px;
+}
+
+.big-heading {
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+    line-height: 1.5;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 5%;
+
+}
+
+.container-fluid {
+    padding: 1% 10% 9%;
+}
+
+.button {
+    margin: 5% 3% 5% 0;
+    text-align: left;
+
+}
+
+.image-iphone {
+    width: 20%;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 20%;
+    bottom: 30%;
+
+}
+
+#features {
+    padding: 4% 15%;
+    position: relative;
+}
+
+.jashwanth {
+
+    padding: 0%;
+
+}
+.spacer img{
+    width: 200px;
+    height: auto;
+}
+.spacer{
+    margin: 0 10px;
+    box-shadow: 0px 49px 40px rgba(50, 50, 71, 0.05);
+    padding: 10%;
+}
+h3{
+    font-size: 24px;
+    font-weight:700 ;
+    margin:35px;
+}
+.barack {
+    width: 100px;
+    height: auto;
+    border-style:outset;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin: 40px 40px 10px 40px ;
+
+}
+h2{
+   font-size: 24px;
+   font-weight: 600;
+
+}
+.grey-section p{
+    font-weight: 700;
+    
+}
+.images img{
+    width: 150px;
+    margin: 20px 40px;
+}
